@@ -35,7 +35,8 @@
   > It is essential to import this library:
   > ``` import pandas as pd ```
 
-## V. ECE Board Exam Results| Name | Gender | Track            | Hometown | Math | Electronics | GEAS | Communication |
+## V. ECE Board Exam Results
+| Name | Gender | Track            | Hometown | Math | Electronics | GEAS | Communication |
 | ---- | ------ | ---------------- | -------- | ---- | ----------- | ---- | ------------- |
 | S1   | Male   | Instrumentation  | Luzon    | 58   | 89          | 75   | 78            |
 | S2   | Female | Communication    | Mindanao | 52   | 75          | 90   | 52            |
