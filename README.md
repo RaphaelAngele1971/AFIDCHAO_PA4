@@ -34,6 +34,7 @@
   > [!IMPORTANT]
   > It is essential to import this library:
   > ``` import pandas as pd ```
+  > ``` import matlablib.pyplot as plt ```
 
 ## V. ECE Board Exam Results
 | Name | Gender | Track            | Hometown | Math | Electronics | GEAS | Communication |
