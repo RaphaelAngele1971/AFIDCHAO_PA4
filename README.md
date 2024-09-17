@@ -21,7 +21,7 @@
   > | S11  | Female | Communication   | 48   |
   > | S22  | Female | Communication   | 64   |
 
-  &nbsp;&nbsp;&nbsp;&nbsp;a. Filename: Instru = ["Name”, “GEAS”, “Electronics >70”]; where track is constant as Instrumentation and hometown Luzon
+  &nbsp;&nbsp;&nbsp;&nbsp;a. Filename: Instru = ["Name”, “GEAS”, “Electronics >70”]; where track is constant as Instrumentation and hometown Luzon<br/><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;b. Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is constant as Mindanao and gender Female
 
   2. Create a visualization that shows how the different features contributes to average grade. Does chosen track in college, gender, or hometown contributes to a higher average score?
